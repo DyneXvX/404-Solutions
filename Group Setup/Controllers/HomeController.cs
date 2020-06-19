@@ -40,6 +40,10 @@ namespace Group_Setup.Controllers
                     return View("../Users/Lital");
                 if ((number == "n01425550") || (number == "01425550"))
                     return View("../Users/Mervens");
+                else
+                {
+                    return View();
+                }
             }
             return View();
         }
