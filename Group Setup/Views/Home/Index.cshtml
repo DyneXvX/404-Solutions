@@ -1,0 +1,38 @@
+﻿@model UserModel
+@{
+    ViewData["Title"] = "Welcome";
+}
+
+<h1 style="text-align: center">Welcome to 404 Solutions</h1>
+<p class="text-center">@DateTime.Now</p>
+<div class="text-center">
+    <p>
+        <i class="fas fa-user-tie fa-9x"></i>
+    </p>
+</div>
+<div style="margin-top: 5%">
+    This basic build is just so each member can practice, learn, try out
+</div>
+
+
+<h3 class="text-center">Directions</h3>
+<ol>
+    <li>Please input your n number below</li>
+    <li>You will be taken to a hidden view page (from this index) with a few instructions.</li>
+    <li>Follow the instructions and push your working results back.</li>
+    <li>Please do not upload the work if you do not have a working build. I don't plan on checking every line of code.</li>
+    <li>Please don't do anything but your part. It will be easier to see if everyone's work is in their spot.</li>
+    <li>If you run into problems, or are not sure what you are doing, then please ask. That is why we are here. We all need to be able to do this.</li>
+</ol>
+
+<div class="text-center" style="margin-top: 5%">
+    <u>This is just a way to make sure everyone can work remotely in a group.</u>
+
+</div>
+
+
+<form method="post" style="margin-top: 5%">
+    <label asp-for="Number">N number</label>
+    <input asp-for="Number" type="text" id="Number" placeholder="n:">
+    <button class="btn btn-primary">Submit</button>
+</form>
