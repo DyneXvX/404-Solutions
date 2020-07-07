@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lital\\source\\repos\\404-Solutions\\Group Setup\\Group Setup.csproj": {}
+    "D:\\Windows Directories\\OneDrive\\Documents\\404 Solutions\\Group Setup\\Group Setup\\Group Setup.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lital\\source\\repos\\404-Solutions\\Group Setup\\Group Setup.csproj": {
+    "D:\\Windows Directories\\OneDrive\\Documents\\404 Solutions\\Group Setup\\Group Setup\\Group Setup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lital\\source\\repos\\404-Solutions\\Group Setup\\Group Setup.csproj",
+        "projectUniqueName": "D:\\Windows Directories\\OneDrive\\Documents\\404 Solutions\\Group Setup\\Group Setup\\Group Setup.csproj",
         "projectName": "Group Setup",
-        "projectPath": "C:\\Users\\lital\\source\\repos\\404-Solutions\\Group Setup\\Group Setup.csproj",
-        "packagesPath": "C:\\Users\\lital\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lital\\source\\repos\\404-Solutions\\Group Setup\\obj\\",
+        "projectPath": "D:\\Windows Directories\\OneDrive\\Documents\\404 Solutions\\Group Setup\\Group Setup\\Group Setup.csproj",
+        "packagesPath": "C:\\Users\\DyneX\\.nuget\\packages\\",
+        "outputPath": "D:\\Windows Directories\\OneDrive\\Documents\\404 Solutions\\Group Setup\\Group Setup\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\lital\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DyneX\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
